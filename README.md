@@ -4,10 +4,10 @@
 - Application maintain a seperate database for the blogs.
 
 #ScreenShots
-- Main screen
-![](screenshots/Screenshot (197).PNG)
--Blog
-![](screenshots/Screenshot (198).PNG)
--Edit Section
-![](screenshots/Screenshot (199).PNG)
+
+![](screenshots/Screenshot(197).png)
+
+![](screenshots/screenshot(198).png)
+
+![](screenshots/screenshot(199).png)
 
