@@ -3,3 +3,12 @@
 - Application will allow user to edit and delete their blogs.
 - Application maintain a seperate database for the blogs.
 
+# Screenshots
+- Homepage
+![](screenshots/index.png)
+
+- Blog
+![](screenshots/blog.png)
+
+- Edit
+![](screenshots/edit.png)
